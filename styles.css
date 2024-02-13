@@ -22,7 +22,7 @@ padding: 10px 20px;
 	border-radius: 5px;
 	color: white;
 }
-#left{
+.left{
 	width: 450px;
 	margin-top: 70px;
 	display: inline-block;
